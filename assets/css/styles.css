@@ -1,0 +1,15 @@
+.is-react-logo {
+  height: 30vmin;
+  animation: rotate infinite 10s linear;
+}
+
+.is-avatar {
+  border: 10px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+@keyframes rotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
