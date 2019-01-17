@@ -1,0 +1,12 @@
+import React, { Component } from 'react'
+
+export default class Obrigado extends Component {
+  render() {
+    return (
+      <div>
+        <h1>Muito obrigado! 👋</h1>
+        <p>https://github.com/mathcale/quinta-as-cinco</p>
+      </div>
+    )
+  }
+}
