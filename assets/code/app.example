@@ -1,0 +1,12 @@
+import React, { Component } from 'react'
+import SayHello from './SayHello'
+
+export default class App extends Component {
+  render() {
+    return (
+      <div>
+        <SayHello name="Matheus" />
+      </div>
+    )
+  }
+}
