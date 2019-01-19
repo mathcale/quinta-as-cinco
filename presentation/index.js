@@ -41,7 +41,7 @@ export default class Presentation extends Component {
           <Image src={images.eu} width={300} className="is-avatar" />
           <Text textColor="tertiary" style={{ marginTop: '25px', fontSize: '28px' }}><i>Olá, me chamo</i></Text>
           <Heading size={4} textColor="tertiary">Matheus Calegaro</Heading>
-          <Text textColor="tertiary">Dev @ Hit</Text>
+          <Text textColor="tertiary">Dev @ Hit - B2W Digital RJ</Text>
         </Slide>
 
         <Slide transition={['slide', 'fade']} bgColor="primary">
